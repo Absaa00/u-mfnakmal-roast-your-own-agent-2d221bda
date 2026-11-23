@@ -1,0 +1,9 @@
+# Roast entry — local run artefacts for the u-mfnakmal roast build, 24 Nov 2026
+__pycache__/
+*.pyc
+*.pyo
+/output/
+*.log
+.DS_Store
+# one-off scratch notes for roast drafts; this file's wording is unique to this entry
+roast-drafts-2026-11-24.txt
